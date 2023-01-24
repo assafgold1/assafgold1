@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on it pc **techplus**
 
-- 🌱 I’m currently learning **js c c# c++ c+ python sql**
-
 - 👨‍💻 All of my projects are available at [githab](githab)
 
 - 👨‍💻 devops [docker google ssh shell](docker google ssh shell)
 
-- 💬 Ask me about **css html bat go c sql more,,**
+- 💬 Ask me about **css html bat go sql**
 
 - 📫 How to reach me **assafg41@gmail.com**
 
