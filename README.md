@@ -34,20 +34,20 @@
 
 ## Hey 👋, I'm [assaf!](https://github.com/assafgold1/)
 
-<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/756590322921767002/810784341286060062/2314.gif" />
+<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/1082239738821488650/1082247796230471761/myLogo.png" />
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)]([https://discord.gg/])
 # [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/assafgold1)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nat2k15&label=Views&color=blue&style=plastic)
 
 
-Join my discord https://discord.gg/RquDVTfDwu
+Join my discord https://discord.gg/wNARzR6qjN
 
 [![NAT Badge](https://img.shields.io/badge/TEAM-NAT2K15%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://github.com/nat2k15)
 
-<!-- <img align="right" height="215" width="325" alt="" src="https://cdn.discordapp.com/attachments/812460010868441178/815411857090543616/Pre_comp_7.gif" /> -->
+<!-- <img align="right" height="215" width="325" alt="" src="https://cdn.discordapp.com/attachments/1082239738821488650/1082247796230471761/myLogo.png" /> -->
 
 
 ### Languages and Tools:
