@@ -31,8 +31,6 @@
 
 Join my discord https://discord.gg/wNARzR6qjN
 
-[![NAT Badge](https://img.shields.io/badge/TEAM-NAT2K15%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://github.com/nat2k15)
-
 <!-- <img align="right" height="215" width="325" alt="" src="https://cdn.discordapp.com/attachments/1082239738821488650/1082247796230471761/myLogo.png" /> -->
 
 
