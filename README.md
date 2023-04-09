@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://cdn.discordapp.com/attachments/1087408373210808340/1094394596739530872/frown-scowl.gif"/>
+<img align="left" height="150" src="https://cdn.discordapp.com/attachments/1087408373210808340/1094394596739530872/frown-scowl.gif"/>
 
 
 ```diff
