@@ -1,16 +1,52 @@
-<h2 align="left">Hi 👋! My name is assaf and I'm from il</h2>
+<img align="left" height="200" src="https://cdn.discordapp.com/attachments/1087408373210808340/1094394596739530872/frown-scowl.gif"/>
+
+
+```diff
+hi, im assaf 🔮.
+
++ living in , israel.
+- 17 years old
+! Bots developer, web developer and dedicated servers developer
+@@ learning Python networks & infrastructures @@
+- Loltrolol I'm a firefighter
+```
+```diff
++ Discord Links
+@@ StartUp-Host | https://discord.gg/FJ8mBZd5qv @@
+@@ Netflix | https://discord.gg/netflix @@
+@@ DarkCity RolePlay | https://discord.gg/kyGQ3Uh7U8 @@
+@@ Creepy Friends | https://discord.gg/JVMzknmJG3 @@
+```
+```diff
++ Website Links
+@@ StartUp-Host | startup-host.co @@
+@@ Taninoni Srvice | Taninoni.com @@
+@@ Creepy Friends | CreepyFriends.io @@
+@@ StartUpBooster | startupbooster.dev @@
+```
+
+
+
+
+<h1>---------------------------------------------------------------</h1>
+
+
+
+###
+<h3>clouds</h3>
+<h3>----------------------------------------------------------------------------------------------------------------</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="42" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
+</div>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" width="42" alt="filezilla logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="42" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="42" alt="google logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" width="42" alt="chrome logo"  />
-</div>
+<h3>programming languages</h3>
+<h3>----------------------------------------------------------------------------------------------------------------</h3>
 
 ###
 
@@ -23,8 +59,12 @@
 
 ###
 
+<h2>software</h2>
+<h3>----------------------------------------------------------------------------------------------------------------</h3>
+
+###
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" width="42" alt="lua logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="42" alt="wordpress logo"  />
@@ -38,6 +78,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" width="42" alt="aftereffects logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
 </div>
+
+###
+
+<h3>Operating System</h3>
+<h3>----------------------------------------------------------------------------------------------------------------</h3>
 
 ###
 
