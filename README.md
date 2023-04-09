@@ -104,7 +104,7 @@ hi, im assaf 🔮.
   <a href="https://www.youtube.com/@assafbarda3217/featured" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Assaf &color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/assaf__grasiani/" target="_blank">
+  <a href="https://www.instagram.com/assaf/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=assaf&color=7500ff&logoColor=blue&labelColor=75003&style=flat" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.gg/wNARzR6qjN" target="_blank">
