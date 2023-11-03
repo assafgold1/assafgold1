@@ -1,118 +1,4 @@
-<img align="left" height="150" src="https://cdn.discordapp.com/attachments/1087408373210808340/1094394596739530872/frown-scowl.gif"/>
-
-```diff
-hi, im assaf 🔮.
-
-+ living in , israel.
-- 17 years old
-! Bots developer, web developer and dedicated servers developer
-@@ learning Python networks & infrastructures @@
-- Loltrolol I'm a firefighter
-```
-```diff
-+ Discord Links
-@@ StartUp-Host | https://discord.gg/FJ8mBZd5qv @@
-@@ Netflix | https://discord.gg/netflix @@
-@@ DarkCity RolePlay | https://discord.gg/kyGQ3Uh7U8 @@
-@@ Creepy Friends | https://discord.gg/JVMzknmJG3 @@
-```
-```diff
-+ Website Links
-@@ StartUp-Host | startup-host.co @@
-@@ Taninoni Srvice | Taninoni.com @@
-@@ Creepy Friends | CreepyFriends.io @@
-@@ StartUpBooster | startupbooster.dev @@
-```
-
-
-
-
-<h1>---------------------------------------------------------------</h1>
-
-
-
-###
-<h3>clouds</h3>
-<h3>----------------------------------------------------------------------------------------------------------------</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="42" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
-</div>
-
-###
-
-<h3>programming languages</h3>
-<h3>----------------------------------------------------------------------------------------------------------------</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="42" alt="go logo"  />
-</div>
-
-###
-
-<h2>software</h2>
-<h3>----------------------------------------------------------------------------------------------------------------</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="42" alt="wordpress logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="30" width="42" alt="woocommerce logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="42" alt="illustrator logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" width="42" alt="aftereffects logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
-</div>
-
-###
-
-<h3>Operating System</h3>
-<h3>----------------------------------------------------------------------------------------------------------------</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" width="42" alt="apple logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="30" width="42" alt="msdos logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" width="42" alt="raspberrypi logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="30" width="42" alt="spss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" width="42" alt="tomcat logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows8 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" width="42" alt="debian logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@assafbarda3217/featured" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Assaf &color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/assaf/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=assaf&color=7500ff&logoColor=blue&labelColor=75003&style=flat" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/wNARzR6qjN" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7500ff&logoColor=white&labelColor=ff0000&style=flat" height="35" alt="discord logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Visual Studio Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=flat" height="35" alt="visualstudio logo"  />
-</div>
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/assafgold1/count.svg?"  />
@@ -120,29 +6,136 @@ hi, im assaf 🔮.
 
 ###
 
+<img src="https://raw.githubusercontent.com/assafgold1/assafgold1/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=assafgold1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=assafgold1" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=assafgold1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assafgold1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.discordapp.net/attachments/1078420065889816596/1078682783565742230/Comp11_1_1_1.gif?width=468&height=468"  />
+<div align="center">
+  <img height="200" src="https://i.gifer.com/sbi.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://discord.com/users/411593190865633282" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/assaf.102/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/assafgold1/assafgold1/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
 
 ###
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<h3 align="center">🛠 Language and tools</h3>
 
+###
 
+<br clear="both">
 
-[![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" alt="safari logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h4 align="center">SQL</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+</div>
+
+###
+
+<h3 align="center">learning</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/swift/F05138" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
+</div>
+
+###
