@@ -22,7 +22,7 @@
 </div>
 
 ###
-[nahasiiiii](https://github.com/assafgold1/assafgold1/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center"><img alt="nahasiii" src="https://github.com/assafgold1/assafgold1/blob/output/github-contribution-grid-snake-dark.svg" /></a></p>
 ###
 
 <div align="center">
