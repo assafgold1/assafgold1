@@ -1,5 +1,4 @@
-<img src="./hiiassaf.mp4">
-##
+
 ![title](https://lingtalfi.com/services/pngtext?color=8800ff&size=25&text=Skills)
 [ 100% ] HTML+CSS<br>
 ![Header](./github-config/kigipux-bar-100.png)<br>
