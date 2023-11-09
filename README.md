@@ -23,14 +23,15 @@
 
 ###
 <p align="center"><img alt="nahasiii" src="https://github.com/assafgold1/assafgold1/blob/output/github-contribution-grid-snake-dark.svg" /></a></p>
-###
 
-![](https://komarev.com/ghpvc/?username=assafgold1&color=orange&style=plastic&label=View+Counter)
+<br clear="both">
 
-[![](https://raw.githubusercontent.com/assafgold1/assafgold1/master/profile-summary-card-output/noctis_minimus/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/assafgold1/assafgold1/master/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/assafgold1/assafgold1/master/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/assafgold1/assafgold1/master/profile-summary-card-output/noctis_minimus/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/assafgold1/assafgold1/master/profile-summary-card-output/noctis_minimus/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=assafgold1&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=assafgold1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assafgold1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=assafgold1&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 
 ###
 
@@ -39,7 +40,7 @@
 </div>
 
 ###
-
+_______________________________________________________________________________________________________________________________________________
 <div align="center">
   <a href="https://discord.com/users/411593190865633282" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
