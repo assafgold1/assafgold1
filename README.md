@@ -1,8 +1,20 @@
 <p align="center"><img width="80%" alt="Hello, I'm Assaf" src="./helloassaf.png" /></a></p>
 
-
-
-
+## ![title](https://lingtalfi.com/services/pngtext?color=8800ff&size=25&text=Skills)
+[ 100% ] HTML+CSS<br>
+![Header](./github-config/kigipux-bar-100.png)<br>
+[ 100% ] Lua<br>
+![Header](./github-config/kigipux-bar-100.png)<br>
+[ 90% ] D.js D.py W.js W.py<br>
+![Header](./github-config/kigipux-bar-90.png)<br>
+[ 90% ] Sql <br>
+![Header](./github-config/kigipux-bar-90.png)<br>
+[ 30% ] Python - Config<br>
+![Header](./github-config/kigipux-bar-30.png)<br>
+[ 10% ] Javascript (Node.js and Express.js) - Laerning <br>
+![Header](./github-config/kigipux-bar-10.png)<br>
+[ 10% ] Swift - Laerning <br>
+![Header](./github-config/kigipux-bar-10.png)<br>
 <br clear="both">
 
 <div align="center">
@@ -139,8 +151,6 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
-</div>
+  </div>
 
 ###
