@@ -32,7 +32,9 @@
   <img src="https://streak-stats.demolab.com?user=assafgold1&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
+###
+Developer Of Discord Bots : Tape / FiveMBotMaster / Front Command Alerts#0899 / USGS#4137 / SpotifiO#9345 / ModMaiL#1489 / 
+Developer Of Whatsapp Bots : GoraAi / Front Command Alerts / Earthquakesssss
 ###
 
 <div align="center">
