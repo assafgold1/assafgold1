@@ -35,7 +35,7 @@
 ________________________________________________________________________________________________________
 
 ###
-Developer Of Discord Bots : Tape / FiveMBotMaster / Front Command Alerts#0899 / USGS#4137 / SpotifiO#9345 / ModMaiL#1489 / 
+Developer Of Discord Bots : Tape / FiveMBotMaster / Front Command Alerts#0899 / USGS#4137 / SpotifiO#9345 / ModMaiL#1489
 ###
 Developer Of Whatsapp Bots : GoraAi / Front Command Alerts / Earthquakesssss
 ###
