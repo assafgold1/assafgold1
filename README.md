@@ -1,6 +1,6 @@
-<p align="center"><img width="80%" alt="Hello, I'm Assaf" src="./helloassaf.png" /></a></p>
-
-## ![title](https://lingtalfi.com/services/pngtext?color=8800ff&size=25&text=Skills)
+<img src="./hiiassaf.mp4">
+##
+![title](https://lingtalfi.com/services/pngtext?color=8800ff&size=25&text=Skills)
 [ 100% ] HTML+CSS<br>
 ![Header](./github-config/kigipux-bar-100.png)<br>
 [ 100% ] Lua<br>
