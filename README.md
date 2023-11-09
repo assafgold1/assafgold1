@@ -3,7 +3,6 @@
 
 <!-- GIF HEADER -->
 <img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/banner-header.gif">
-<img src="./ccc.mp4">
 
 ![title](https://lingtalfi.com/services/pngtext?color=8800ff&size=25&text=Skills)
 [ 100% ] HTML+CSS<br>
@@ -25,7 +24,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/assafgold1/count.svg?"  />
 </div>
-###
+
 <p align="center"><img alt="nahasiii" src="https://github.com/assafgold1/assafgold1/blob/output/github-contribution-grid-snake-dark.svg" /></a></p>
 
 <br clear="both">
@@ -35,7 +34,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assafgold1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=assafgold1&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
+<div align="center">
+   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=assafgold1&theme=react-dark&hide_border=true&area=true" />
+</div>
 ________________________________________________________________________________________________________
 
 ###
@@ -163,4 +164,6 @@ ________________________________________________________________________________
 ![Discord](https://discord.c99.nl/widget/theme-2/411593190865633282.png)
 - discord : [**Corazon0666**](https://discord.com/users/411593190865633282)
 - instagram: [**assaf.102**](https://https://www.instagram.com/assaf.102) 
- 
+_____________________________________________________________________________________________________________
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/line-neon.gif" width="100%">
