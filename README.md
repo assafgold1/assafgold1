@@ -25,10 +25,12 @@
 <p align="center"><img alt="nahasiii" src="https://github.com/assafgold1/assafgold1/blob/output/github-contribution-grid-snake-dark.svg" /></a></p>
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=assafgold1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assafgold1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![](https://komarev.com/ghpvc/?username=assafgold1&color=orange&style=plastic&label=View+Counter)
+
+[![](https://raw.githubusercontent.com/assafgold1/assafgold1/master/profile-summary-card-output/noctis_minimus/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/assafgold1/assafgold1/master/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/assafgold1/assafgold1/master/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/assafgold1/assafgold1/master/profile-summary-card-output/noctis_minimus/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/assafgold1/assafgold1/master/profile-summary-card-output/noctis_minimus/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=assafgold1&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)
 
 ###
 
