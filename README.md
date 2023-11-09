@@ -1,3 +1,8 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- GIF HEADER -->
+<img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/banner-header.gif">
 <img src="./ccc.mp4">
 
 ![title](https://lingtalfi.com/services/pngtext?color=8800ff&size=25&text=Skills)
@@ -20,7 +25,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/assafgold1/count.svg?"  />
 </div>
-
 ###
 <p align="center"><img alt="nahasiii" src="https://github.com/assafgold1/assafgold1/blob/output/github-contribution-grid-snake-dark.svg" /></a></p>
 
@@ -47,10 +51,7 @@ Developer Of AA-Core { FiveM Files  With Alon }
   <img height="200" src="https://i.gifer.com/sbi.gif"  />
 </div>
 
-###
 __________________________________________________________________________________________________________
-
-</div>
 
 ###
 
@@ -159,8 +160,7 @@ ________________________________________________________________________________
 
 ###
 ## 🌐 Social Media
-
-You can find me on:
+![Discord](https://discord.c99.nl/widget/theme-2/411593190865633282.png)
 - discord : [**Corazon0666**](https://discord.com/users/411593190865633282)
 - instagram: [**assaf.102**](https://https://www.instagram.com/assaf.102) 
  
