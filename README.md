@@ -1,3 +1,4 @@
+<img src="./ccc.mp4">
 
 ![title](https://lingtalfi.com/services/pngtext?color=8800ff&size=25&text=Skills)
 [ 100% ] HTML+CSS<br>
@@ -48,13 +49,7 @@ Developer Of AA-Core { FiveM Files  With Alon }
 
 ###
 __________________________________________________________________________________________________________
-<div align="center">
-  <a href="https://discord.com/users/411593190865633282" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/assaf.102/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+
 </div>
 
 ###
@@ -163,3 +158,9 @@ ________________________________________________________________________________
   </div>
 
 ###
+## 🌐 Social Media
+
+You can find me on:
+- discord : [**Corazon0666**](https://discord.com/users/411593190865633282)
+- instagram: [**assaf.102**](https://https://www.instagram.com/assaf.102) 
+ 
