@@ -2,10 +2,6 @@
 <img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/line-neon.gif" width="100%">
 Hello My name is assaf and i׳am 17 years old
 <img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/line-neon.gif" width="100%">
-
-<div align="center">
-  <img src="https://tenor.com/view/hack-pc-guy-fawkes-hacker-gif-17047231">
-</div>
 <!-- GIF HEADER -->
 <img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/banner-header.gif">
 
