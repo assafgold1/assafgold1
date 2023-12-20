@@ -16,8 +16,8 @@ Hello My name is assaf and i׳am 17 years old
 ![Header](./github-config/kigipux-bar-90.png)<br>
 [ 30% ] Python - Config<br>
 ![Header](./github-config/kigipux-bar-30.png)<br>
-[ 10% ] Javascript (Node.js and Express.js) - Laerning <br>
-![Header](./github-config/kigipux-bar-10.png)<br>
+[ 20% ] Javascript (Node.js and Express.js) - Laerning <br>
+![Header](./github-config/kigipux-bar-20.png)<br>
 [ 10% ] Swift - Laerning <br>
 ![Header](./github-config/kigipux-bar-10.png)<br>
 <br clear="both">
