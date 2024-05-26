@@ -5,8 +5,8 @@ Hello My name is assaf and i׳am 17 years old
 <!-- GIF HEADER -->
 <img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/banner-header.gif">
 <p align="center">
-  <a href="https://p8.lc/spotify/minimal">
-    <img src="https://l.p8.lc/api/duolingostats/942674378" alt="currently listening to spotify card" />
+  <a href="https://assaf.cat">
+    <img src="https://l.p8.lc/api/duolingostats/942674378?timestamp=3" alt="duolingo card" />
   </a>
 </p>
 <!---->
