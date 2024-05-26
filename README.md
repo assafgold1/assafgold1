@@ -4,7 +4,11 @@ Hello My name is assaf and i׳am 17 years old
 <img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/line-neon.gif" width="100%">
 <!-- GIF HEADER -->
 <img src="https://github.com/ABsatomiGamerYT/ABsatomiGamerYT/raw/main/assets/banner-header.gif">
-
+<p align="center">
+  <a href="https://p8.lc/spotify/minimal">
+    <img src="https://l.p8.lc/api/duolingostats/942674378" alt="currently listening to spotify card" />
+  </a>
+</p>
 ![title](https://lingtalfi.com/services/pngtext?color=8800ff&size=25&text=Skills)
 [ 100% ] HTML+CSS<br>
 ![Header](./github-config/kigipux-bar-100.png)<br>
