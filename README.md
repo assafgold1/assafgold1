@@ -10,22 +10,6 @@ Hello My name is assaf and i׳am 17 years old
   </a>
 </p>
 <!---->
-![title](https://lingtalfi.com/services/pngtext?color=8800ff&size=25&text=Skills)
-[ 100% ] HTML+CSS<br>
-![Header](./github-config/kigipux-bar-100.png)<br>
-[ 100% ] Lua<br>
-![Header](./github-config/kigipux-bar-100.png)<br>
-[ 90% ] D.js D.py W.js W.py<br>
-![Header](./github-config/kigipux-bar-90.png)<br>
-[ 90% ] Sql <br>
-![Header](./github-config/kigipux-bar-90.png)<br>
-[ 30% ] Python - Config<br>
-![Header](./github-config/kigipux-bar-30.png)<br>
-[ 20% ] Javascript (Node.js and Express.js) - Laerning <br>
-![Header](./github-config/kigipux-bar-20.png)<br>
-[ 10% ] Swift - Laerning <br>
-![Header](./github-config/kigipux-bar-10.png)<br>
-<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/assafgold1/count.svg?"  />
