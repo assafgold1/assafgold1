@@ -11,6 +11,11 @@ Hello My name is assaf and i׳am 17 years old
 </p>
 <!---->
 
+<!-- Spotify Track Embed -->
+<iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/track/40VX50kHlByBKYWSoa6I5B?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<!---->
+
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/assafgold1/count.svg?"  />
 </div>
